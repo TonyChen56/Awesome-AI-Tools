@@ -70,6 +70,7 @@
 ## 🎬 AI Video Creation
 
 - **[Runway](https://runwayml.com)** 🔥🔥🔥 `Paid` `Professional` `Video Generation` - Professional AI video editing and generation platform
+- **[PVID](https://pvid.app/)** `Freemium` `Multi-Model` `Video Generation` - Free AI video generator aggregating Kling 3.0, Sora 2, Veo 3.1. Supports image-to-video, text-to-video, video-to-video with 100 free credits
 - **[Synthesia](https://synthesia.io)** 🔥🔥 `Paid` `AI Avatar` `Text-to-Video` - AI virtual human video generator
 - **[Luma AI](https://lumalabs.ai)** 🔥🔥 `Paid` `3D Capture` `Video Generation` - 3D scene capture and video generation
 - **[Pika Labs](https://pika.art)** 🔥 `Paid` `Video Generation` - AI video generation tool

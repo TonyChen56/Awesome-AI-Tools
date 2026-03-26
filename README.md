@@ -77,6 +77,7 @@
 ## 🎬 AI 视频制作
 
 - **[Runway](https://runwayml.com)** - 专业AI视频编辑和生成平台
+- **[PVID](https://pvid.app/)** - 免费AI视频生成器，聚合Kling 3.0、Sora 2、Veo 3.1，支持图生视频、文生视频、视频生视频，新用户100免费积分
 - **[Synthesia](https://synthesia.io)** - AI虚拟人视频生成器
 - **[Luma AI](https://lumalabs.ai)** - 3D场景捕捉和视频生成
 - **[Pika Labs](https://pika.art)** - AI视频生成工具
