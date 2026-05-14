@@ -52,6 +52,7 @@
 - **[Leonardo AI](https://leonardo.ai)** 🔥🔥 `付费` `专业级` `艺术创作` - 专业级AI艺术生成平台
 - **[Firefly](https://firefly.adobe.com)** 🔥 `付费` `Adobe` `创意套件` - Adobe的AI创意工具套件
 - **[Canva AI](https://canva.com/ai-image-generator)** - 集成AI功能的设计平台
+- **[LandscapioAI](https://www.landscapioai.com/)** `Freemium` `景观设计` `家居庭院` - 面向房主的 AI 景观设计和项目规划工具，可上传院子照片生成户外设计思路并估算项目成本
 - **[Artbreeder](https://artbreeder.com)** - 基于遗传算法的图像创作工具
 - **[NightCafe](https://nightcafe.studio)** - 多样化AI艺术生成器
 - **[Playground AI](https://playgroundai.com)** - 免费的AI图像生成平台

@@ -45,6 +45,7 @@
 - **[Leonardo AI](https://leonardo.ai)** 🔥🔥 `Paid` `Professional` `Art Creation` - Professional-grade AI art generation platform
 - **[Firefly](https://firefly.adobe.com)** 🔥 `Paid` `Adobe` `Creative Suite` - Adobe's AI creative tool suite
 - **[Canva AI](https://canva.com/ai-image-generator)** `Freemium` `Design Platform` - Design platform with integrated AI features
+- **[LandscapioAI](https://www.landscapioai.com/)** `Freemium` `Landscape Design` `Home Improvement` - AI landscape design and outdoor project planning from yard photos
 - **[Artbreeder](https://artbreeder.com)** `Free` `Genetic Algorithm` - Genetic algorithm-based image creation tool
 - **[NightCafe](https://nightcafe.studio)** `Freemium` `Diverse Styles` - Diverse AI art generator
 - **[Playground AI](https://playgroundai.com)** `Free` `Community` - Free AI image generation platform
