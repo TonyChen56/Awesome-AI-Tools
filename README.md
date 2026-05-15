@@ -125,6 +125,7 @@
 ## 🏥 AI 健康美容
 
 - **[FaceFatLoss](https://www.facefatloss.com/)** ⭐ 🔥🔥 `免费试用` `面部分析` `个性化` - 专业的AI面部瘦脸工具，智能分析面部特征
+- **[Aurcue](https://www.aurcue.com)** `免费试用` `个人造型` `照片分析` - AI个人审美助手，用一张照片生成色彩、穿搭、发型和眼镜风格建议
 - **[Lensa AI](https://lensa-ai.com)** 🔥🔥 `付费` `头像生成` `美颜` - AI头像和美颜工具
 - **[FaceApp](https://faceapp.com)** 🔥 `免费` `付费版` `面部编辑` - AI面部编辑和年龄变换
 - **[YouCam Perfect](https://youcam.com)** - AI美颜相机和编辑器
