@@ -118,6 +118,7 @@
 ## 🏥 AI Health & Beauty
 
 - **[FaceFatLoss](https://www.facefatloss.com/)** ⭐ 🔥🔥 `Free Trial` `Facial Analysis` `Personalized` - Professional AI facial slimming tool with intelligent facial feature analysis
+- **[Aurcue](https://www.aurcue.com)** `Freemium` `Personal Styling` `Photo Analysis` - AI personal aesthetic assistant that turns one photo into practical guidance for color analysis, outfits, hairstyles, and glasses
 - **[Lensa AI](https://lensa-ai.com)** 🔥🔥 `Paid` `Avatar Generation` `Beautification` - AI avatar and beautification tool
 - **[FaceApp](https://faceapp.com)** 🔥 `Free` `Premium` `Face Editing` - AI facial editing and age transformation
 - **[YouCam Perfect](https://youcam.com)** `Freemium` `Beauty Camera` - AI beauty camera and editor
@@ -172,4 +173,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ⭐ If this list is helpful to you, please give it a Star for support!
 
-💬 Have questions or suggestions? Feel free to submit an Issue or contact us! 
+💬 Have questions or suggestions? Feel free to submit an Issue or contact us!
