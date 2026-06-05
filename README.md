@@ -146,6 +146,7 @@
 - **[OpenAI Codex](https://openai.com/codex)** - OpenAI的代码生成模型
 - **[Sourcegraph Cody](https://sourcegraph.com/cody)** - AI代码搜索和生成
 - **[DeepCode](https://deepcode.ai)** - AI代码审查工具
+- **[CoderPlan](https://coderplan.ai)** 🔥 `免费试用` `API中转` `OpenAI兼容` - 面向开发者的 LLM API 中转服务，OpenAI 兼容协议，一行配置接入 Claude Code/Cursor 等 AI 编程工具
 
 ---
 
