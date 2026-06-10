@@ -85,6 +85,7 @@
 - **[Pictory](https://pictory.ai)** - 文本转视频AI工具
 - **[Fliki](https://fliki.ai)** - AI文本转视频和语音合成
 - **[Descript](https://descript.com)** - AI视频编辑和转录工具
+- **[ImagineClip](https://imagineclip.com?ref=tonychen56-awesome-ai-tools)** - AI视频生成工具，支持社交短片、头像视频和风格化场景创作
 
 ## 🎵 AI 音频生成
 
