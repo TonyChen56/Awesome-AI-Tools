@@ -110,6 +110,7 @@
 - **[Clickup](https://clickup.com)** - 集成AI功能的生产力平台
 - **[Superhuman](https://superhuman.com)** - AI邮件管理工具
 - **[Crystal](https://crystalknows.com)** - AI个性分析和沟通助手
+- **[Remio](https://remio.ai/)** - 本地优先的 AI 记忆和知识库工具，支持文件、网页、录音、邮件、消息、图片和笔记的索引与语义检索
 
 ## 🔍 AI 搜索分析
 
