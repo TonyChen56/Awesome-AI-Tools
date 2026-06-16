@@ -78,6 +78,7 @@
 - **[Pictory](https://pictory.ai)** `Paid` `Text-to-Video` - Text-to-video AI tool
 - **[Fliki](https://fliki.ai)** `Freemium` `Text-to-Video` `Voice Synthesis` - AI text-to-video and voice synthesis
 - **[Descript](https://descript.com)** `Freemium` `Video Editing` `Transcription` - AI video editing and transcription tool
+- **[ImagineClip](https://imagineclip.com)** `Freemium` `AI Avatar` `Video Generation` - AI video generator for fun clips, stylized scenes, and shareable social content
 
 ## 🎵 AI Audio Generation
 
