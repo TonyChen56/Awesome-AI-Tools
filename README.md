@@ -59,6 +59,7 @@
 - **[Lexica](https://lexica.art)** - Stable Diffusion搜索引擎和生成器
 - **[SeaArt](https://seaart.ai)** - 免费的AI艺术创作平台
 - **[Tensor Art](https://tensor.art)** - 专业AI图像生成社区
+- **[Seedream AI Studio](https://seedream4.video/)** 🔥🔥 `免费` `字节跳动` `多模型` - 字节跳动出品的AI图像生成平台，搭载Seedream 5.0/4.5/4.0模型，AI图像竞技场排名第一，支持10张参考图，一键Kling 2.1视频生成
 
 ## ✍️ AI 写作助手
 
