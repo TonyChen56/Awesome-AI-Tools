@@ -139,6 +139,7 @@
 - **[OpenAI Codex](https://openai.com/codex)** `API` `Code Generation` - OpenAI's code generation model
 - **[Sourcegraph Cody](https://sourcegraph.com/cody)** `Freemium` `Code Search` - AI code search and generation
 - **[DeepCode](https://deepcode.ai)** `Free` `Code Review` - AI code review tool
+- **[Roblox GUI Maker](https://robloxguimaker.dev/)** `Free` `UI Generation` `Roblox Studio` - AI-assisted Roblox Studio GUI planner
 
 ---
 
@@ -172,4 +173,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ⭐ If this list is helpful to you, please give it a Star for support!
 
-💬 Have questions or suggestions? Feel free to submit an Issue or contact us! 
+💬 Have questions or suggestions? Feel free to submit an Issue or contact us!

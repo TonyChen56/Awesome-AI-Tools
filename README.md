@@ -146,6 +146,7 @@
 - **[OpenAI Codex](https://openai.com/codex)** - OpenAI的代码生成模型
 - **[Sourcegraph Cody](https://sourcegraph.com/cody)** - AI代码搜索和生成
 - **[DeepCode](https://deepcode.ai)** - AI代码审查工具
+- **[Roblox GUI Maker](https://robloxguimaker.dev/)** - 免费的Roblox Studio GUI规划工具，可生成ScreenGui布局思路和Lua starter code
 
 ---
 
