@@ -139,6 +139,7 @@
 - **[OpenAI Codex](https://openai.com/codex)** `API` `Code Generation` - OpenAI's code generation model
 - **[Sourcegraph Cody](https://sourcegraph.com/cody)** `Freemium` `Code Search` - AI code search and generation
 - **[DeepCode](https://deepcode.ai)** `Free` `Code Review` - AI code review tool
+- **[NotFair](https://github.com/nowork-studio/NotFair)** 🔥🔥 `Open Source` `Claude Code` `Marketing` - Open-source Claude Code skills for SEO, GEO, Google Ads, and Meta Ads (~2.9k stars); connects to live data via Google Ads MCP, Meta Ads MCP, Google Search Console MCP, and Google Analytics (GA4) MCP
 
 ---
 
