@@ -146,6 +146,7 @@
 - **[OpenAI Codex](https://openai.com/codex)** - OpenAI的代码生成模型
 - **[Sourcegraph Cody](https://sourcegraph.com/cody)** - AI代码搜索和生成
 - **[DeepCode](https://deepcode.ai)** - AI代码审查工具
+- **[NotFair](https://github.com/nowork-studio/NotFair)** 🔥🔥 `开源` `Claude Code` `营销` - 用于SEO、GEO、Google Ads和Meta Ads的开源Claude Code技能集（约2.9k星）；通过Google Ads MCP、Meta Ads MCP、Google Search Console MCP和Google Analytics (GA4) MCP连接实时数据
 
 ---
 
