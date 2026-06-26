@@ -47,6 +47,7 @@
 ## 🎨 AI 图像生成
 
 - **[Midjourney](https://midjourney.com)** 🔥🔥🔥 `付费` `艺术生成` `高质量` - 顶级AI图像生成工具，擅长艺术风格创作
+- **[Auferet](https://auferet.com)** - AI game master with persistent memory for your characters and uploaded lore; solo or multiplayer, with 5e and Pathfinder 2e modes.
 - **[DALL-E 3](https://openai.com/dall-e-3)** 🔥🔥🔥 `付费` `OpenAI` `集成ChatGPT` - OpenAI的图像生成模型，集成在ChatGPT中
 - **[Stable Diffusion](https://stability.ai/stablediffusion)** 🔥🔥 `开源` `免费` `可定制` - 开源AI图像生成模型
 - **[Leonardo AI](https://leonardo.ai)** 🔥🔥 `付费` `专业级` `艺术创作` - 专业级AI艺术生成平台
