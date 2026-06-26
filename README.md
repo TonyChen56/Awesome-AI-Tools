@@ -20,6 +20,7 @@
 
 - **[FaceFatLoss](https://www.facefatloss.com/)** `NEW` `免费试用` - 专业AI面部分析工具
 - **[Tensor Art](https://tensor.art)** `NEW` `免费` - 专业AI图像生成社区
+- **[HairWow](https://www.gohairwow.com/)** `NEW` `免费试用` - AI发型试戴与发型建议工具
 
 ## 🔍 如何选择合适的AI工具？
 
@@ -125,6 +126,7 @@
 ## 🏥 AI 健康美容
 
 - **[FaceFatLoss](https://www.facefatloss.com/)** ⭐ 🔥🔥 `免费试用` `面部分析` `个性化` - 专业的AI面部瘦脸工具，智能分析面部特征
+- **[HairWow](https://www.gohairwow.com/)** ⭐ `免费试用` `AI发型试戴` `发型建议` - AI发型试戴与发型建议工具，帮助用户预览发型、发色、胡须和卷发方向
 - **[Lensa AI](https://lensa-ai.com)** 🔥🔥 `付费` `头像生成` `美颜` - AI头像和美颜工具
 - **[FaceApp](https://faceapp.com)** 🔥 `免费` `付费版` `面部编辑` - AI面部编辑和年龄变换
 - **[YouCam Perfect](https://youcam.com)** - AI美颜相机和编辑器
