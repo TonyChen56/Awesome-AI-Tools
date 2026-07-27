@@ -18,6 +18,7 @@
 
 ## 🆕 本月新增工具
 
+- [CharaVox](https://charavox.com) - AI voice generation platform with character voices, voice cloning, and studio-quality TTS in 6 languages (en/zh/ja/ko/es/pt). Powered by VoxCPM.
 - **[FaceFatLoss](https://www.facefatloss.com/)** `NEW` `免费试用` - 专业AI面部分析工具
 - **[Tensor Art](https://tensor.art)** `NEW` `免费` - 专业AI图像生成社区
 
