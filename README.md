@@ -110,6 +110,7 @@
 - **[Clickup](https://clickup.com)** - 集成AI功能的生产力平台
 - **[Superhuman](https://superhuman.com)** - AI邮件管理工具
 - **[Crystal](https://crystalknows.com)** - AI个性分析和沟通助手
+- **[Orkas](https://github.com/Orkas-AI/Orkas)** - 开源、本地优先的多智能体桌面工作空间
 
 ## 🔍 AI 搜索分析
 
