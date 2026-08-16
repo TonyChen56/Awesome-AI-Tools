@@ -146,6 +146,7 @@
 - **[OpenAI Codex](https://openai.com/codex)** - OpenAI的代码生成模型
 - **[Sourcegraph Cody](https://sourcegraph.com/cody)** - AI代码搜索和生成
 - **[DeepCode](https://deepcode.ai)** - AI代码审查工具
+- **[Agent QA](https://github.com/vostride/agent-qa)** - 面向 Web 和移动应用的自然语言 QA 工具，支持 MCP、持久执行记忆和自修复流程；软件包可免费安装，当前版本采用 FSL-1.1-ALv2 源码可用许可证，所配置的模型、浏览器或设备提供商可能另行收费
 
 ---
 

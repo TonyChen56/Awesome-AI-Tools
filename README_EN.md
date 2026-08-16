@@ -139,6 +139,7 @@
 - **[OpenAI Codex](https://openai.com/codex)** `API` `Code Generation` - OpenAI's code generation model
 - **[Sourcegraph Cody](https://sourcegraph.com/cody)** `Freemium` `Code Search` - AI code search and generation
 - **[DeepCode](https://deepcode.ai)** `Free` `Code Review` - AI code review tool
+- **[Agent QA](https://github.com/vostride/agent-qa)** `Free Package` `Source-available` `Application QA` `MCP` - Natural-language web and mobile QA harness with persistent execution memory and self-healing flows; configured providers may cost extra
 
 ---
 
@@ -172,4 +173,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ⭐ If this list is helpful to you, please give it a Star for support!
 
-💬 Have questions or suggestions? Feel free to submit an Issue or contact us! 
+💬 Have questions or suggestions? Feel free to submit an Issue or contact us!
