@@ -77,6 +77,7 @@
 - **[InVideo](https://invideo.io)** `Freemium` `Video Creation` - AI-driven video creation tool
 - **[Pictory](https://pictory.ai)** `Paid` `Text-to-Video` - Text-to-video AI tool
 - **[Fliki](https://fliki.ai)** `Freemium` `Text-to-Video` `Voice Synthesis` - AI text-to-video and voice synthesis
+- **[videos.social](https://videos.social/?utm_source=tonychen56-awesome-ai-tools&utm_medium=directory&utm_campaign=listing-wave-d)** `Freemium` `Text-to-Video` `Faceless` - Turn blogs, PDFs, and prompts into editable faceless videos. Start free — 1 render included.
 - **[Descript](https://descript.com)** `Freemium` `Video Editing` `Transcription` - AI video editing and transcription tool
 
 ## 🎵 AI Audio Generation
