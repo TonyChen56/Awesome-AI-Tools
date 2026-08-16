@@ -84,6 +84,7 @@
 - **[InVideo](https://invideo.io)** - AI驱动的视频创作工具
 - **[Pictory](https://pictory.ai)** - 文本转视频AI工具
 - **[Fliki](https://fliki.ai)** - AI文本转视频和语音合成
+- **[videos.social](https://videos.social/?utm_source=tonychen56-awesome-ai-tools&utm_medium=directory&utm_campaign=listing-wave-d)** - 把博客、PDF 和提示词变成可编辑的无脸视频。免费开始 — 含 1 次渲染。加油包从 $10 起。1 credit = 1 render。
 - **[Descript](https://descript.com)** - AI视频编辑和转录工具
 
 ## 🎵 AI 音频生成
