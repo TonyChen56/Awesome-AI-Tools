@@ -73,6 +73,7 @@
 - **[Wordtune](https://wordtune.com)** - AI文本重写和优化
 - **[Notion AI](https://notion.so/ai)** - 集成在Notion中的AI写作助手
 - **[GitHub Copilot](https://github.com/features/copilot)** - AI代码和文档写作助手
+- **[BulkPublish](https://www.bulkpublish.com)** `免费版` `社交媒体` `API` `MCP` - 面向 AI Agent 的社交媒体规划、排程、发布与分析平台
 
 ## 🎬 AI 视频制作
 
