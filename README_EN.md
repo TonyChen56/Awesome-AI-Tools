@@ -66,6 +66,7 @@
 - **[Wordtune](https://wordtune.com)** `Freemium` `Text Rewriting` - AI text rewriting and optimization
 - **[Notion AI](https://notion.so/ai)** `Paid` `Note Taking` - AI writing assistant integrated in Notion
 - **[GitHub Copilot](https://github.com/features/copilot)** `Paid` `Code Writing` - AI code and documentation writing assistant
+- **[BulkPublish](https://www.bulkpublish.com)** `Freemium` `Social Media` `API` `MCP` - AI-agent social media planning, scheduling, publishing, and analytics platform
 
 ## 🎬 AI Video Creation
 
