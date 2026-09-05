@@ -63,6 +63,7 @@
 ## ✍️ AI 写作助手
 
 - **[ChatGPT](https://chat.openai.com)** 🔥🔥🔥 `免费` `付费版` `对话式` - OpenAI的对话式AI助手
+- **[WSUP AI](https://wsupai.app/)** 🔥🔥 `免费` `无需注册` `角色聊天` - 浏览器内免费 AI 角色聊天，仅限 SFW
 - **[Claude](https://claude.ai)** 🔥🔥🔥 `免费` `付费版` `长文本` - Anthropic的AI助手，擅长长文本处理
 - **[Jasper](https://jasper.ai)** 🔥🔥 `付费` `营销写作` `专业级` - 专业的AI营销写作工具
 - **[Copy.ai](https://copy.ai)** - AI文案生成平台
