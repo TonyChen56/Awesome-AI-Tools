@@ -62,6 +62,7 @@
 
 ## ✍️ AI 写作助手
 
+- **[ResumeAI](https://withresumeai.com/)** 🔥 `免费` `ATS` `简历` - AI简历构建 + 免费ATS检查器
 - **[ChatGPT](https://chat.openai.com)** 🔥🔥🔥 `免费` `付费版` `对话式` - OpenAI的对话式AI助手
 - **[Claude](https://claude.ai)** 🔥🔥🔥 `免费` `付费版` `长文本` - Anthropic的AI助手，擅长长文本处理
 - **[Jasper](https://jasper.ai)** 🔥🔥 `付费` `营销写作` `专业级` - 专业的AI营销写作工具
