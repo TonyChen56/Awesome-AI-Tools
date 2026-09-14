@@ -110,6 +110,8 @@
 - **[Clickup](https://clickup.com)** - 集成AI功能的生产力平台
 - **[Superhuman](https://superhuman.com)** - AI邮件管理工具
 - **[Crystal](https://crystalknows.com)** - AI个性分析和沟通助手
+- **[Solgrok](https://github.com/LMajster/sgrok)** - Solana 链上自主 Creator-Ops Agent（$SGROK），Bags.fm 上 24/7 推广与自动领取/归集 creator fees。交易：https://bags.fm/7QpJ8Pb3pGhoArRPJu3TXbx1p3ezn3TCwz6cMcwQBAGS
+
 
 ## 🔍 AI 搜索分析
 
