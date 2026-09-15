@@ -162,6 +162,7 @@
 - **[AI行业报告](https://www.facefatloss.com/)** - 最新AI技术趋势分析
 - **[面部美容专题](https://www.facefatloss.com/)** - 专业面部分析和美容指南
 - **[开发者工具集](https://github.com/awesome-lists)** - 更多awesome系列资源
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ## 🤝 贡献指南
 
