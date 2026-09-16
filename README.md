@@ -114,6 +114,7 @@
 ## 🔍 AI 搜索分析
 
 - **[Perplexity](https://perplexity.ai)** - AI搜索和研究助手
+- **[AI Tools Radar](https://aitoolsradar.com)** `免费` `AI工具导航` `AI资讯` - AI工具导航与AI产业资讯站，覆盖工具发现、产品对比、AI新闻和每日Newsletter
 - **[Phind](https://phind.com)** - 面向开发者的AI搜索引擎
 - **[You.com](https://you.com)** - 个性化AI搜索平台
 - **[Bing Chat](https://bing.com/chat)** - 微软的AI搜索助手
