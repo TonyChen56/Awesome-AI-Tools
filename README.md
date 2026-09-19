@@ -85,6 +85,7 @@
 - **[Pictory](https://pictory.ai)** - 文本转视频AI工具
 - **[Fliki](https://fliki.ai)** - AI文本转视频和语音合成
 - **[Descript](https://descript.com)** - AI视频编辑和转录工具
+- **[OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio)** - MIT 开源、本地优先的 CLI/MCP 视频工具包，让编程 Agent 通过 plan.json 编排、剪辑和生成视频。
 
 ## 🎵 AI 音频生成
 
