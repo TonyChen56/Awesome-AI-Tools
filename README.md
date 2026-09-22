@@ -103,6 +103,7 @@
 - **[Gamma](https://gamma.app)** - AI驱动的演示文稿制作
 - **[Beautiful.ai](https://beautiful.ai)** - 智能PPT设计工具
 - **[Tome](https://tome.app)** - AI故事叙述和演示工具
+- **[Prezto](https://prezto.cn/)** - 将文档、PDF、表格和草稿转为可编辑演示文稿的AI工作台
 - **[Otter.ai](https://otter.ai)** - AI会议转录和笔记
 - **[Calendly](https://calendly.com)** - 智能日程安排助手
 - **[Zapier](https://zapier.com)** - AI工作流自动化平台
