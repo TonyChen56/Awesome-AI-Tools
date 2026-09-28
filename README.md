@@ -59,6 +59,7 @@
 - **[Lexica](https://lexica.art)** - Stable Diffusion搜索引擎和生成器
 - **[SeaArt](https://seaart.ai)** - 免费的AI艺术创作平台
 - **[Tensor Art](https://tensor.art)** - 专业AI图像生成社区
+- **[Raphael AI](https://raphael.app)** - AI设计工作室，面向产品图、广告创意与品牌视觉
 
 ## ✍️ AI 写作助手
 
