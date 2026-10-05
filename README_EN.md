@@ -66,6 +66,7 @@
 - **[Wordtune](https://wordtune.com)** `Freemium` `Text Rewriting` - AI text rewriting and optimization
 - **[Notion AI](https://notion.so/ai)** `Paid` `Note Taking` - AI writing assistant integrated in Notion
 - **[GitHub Copilot](https://github.com/features/copilot)** `Paid` `Code Writing` - AI code and documentation writing assistant
+- **[Honer AI](https://xoner4.github.io/)** `Android` `Russian/English` `Writing Assistant` - Android AI assistant by HONER for writing, translation, brainstorming, source-linked web search, and photo/document analysis
 
 ## 🎬 AI Video Creation
 
