@@ -73,6 +73,7 @@
 - **[Wordtune](https://wordtune.com)** - AI文本重写和优化
 - **[Notion AI](https://notion.so/ai)** - 集成在Notion中的AI写作助手
 - **[GitHub Copilot](https://github.com/features/copilot)** - AI代码和文档写作助手
+- **[Honer AI](https://xoner4.github.io/)** `Android` `俄语/英语` `写作助手` - HONER 的 Android AI 助手，支持写作、翻译、头脑风暴、带来源链接的网页搜索及照片和文档分析
 
 ## 🎬 AI 视频制作
 
