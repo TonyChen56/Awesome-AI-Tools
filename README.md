@@ -99,6 +99,8 @@
 
 ## 💼 AI 办公效率
 
+- **[Doc2X](https://doc2x.noedgeai.com/)** `免费试用` `会员/积分` `文档解析` `翻译` - PDF、扫描件和图片转 Word、Markdown、LaTeX，识别公式与表格；支持 PDF/Word 翻译，API 按用量另行计费
+
 - **[Notion AI](https://notion.so/ai)** - 智能笔记和项目管理
 - **[Gamma](https://gamma.app)** - AI驱动的演示文稿制作
 - **[Beautiful.ai](https://beautiful.ai)** - 智能PPT设计工具
