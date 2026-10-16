@@ -111,6 +111,8 @@
 - **[Superhuman](https://superhuman.com)** - AI邮件管理工具
 - **[Crystal](https://crystalknows.com)** - AI个性分析和沟通助手
 
+- **[AI 만화 번역기](https://www.mangatranslate.com/ko/ai-manga-translator/)** `Freemium` `만화 번역` `페이지 편집` - Ficory LLC는 AI 만화 번역기를 기업급 만화 리더로 제공합니다. 개인 사용자는 여러 만화 페이지를 일괄 번역하고 작품의 용어와 문체에 맞춰 번역을 맞춤 설정합니다. 스튜디오는 완전한 온라인 Photoshop 스타일 편집기로 페이지와 번역문을 수정합니다. API는 번역 기능을 개인 작업 흐름에 연결하며, 사용자는 제품이 지원하는 모든 번역 언어를 이용합니다. 제한된 무료 기능과 유료 기능을 함께 제공합니다.
+
 ## 🔍 AI 搜索分析
 
 - **[Perplexity](https://perplexity.ai)** - AI搜索和研究助手
