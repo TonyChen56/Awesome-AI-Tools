@@ -1,5 +1,6 @@
 # 🤖 Awesome AI Tools 2025
 
+- [Ideoy](https://ideoy.ai) - Remake this week's viral meme videos from one selfie (AI image-to-video, 9:16, freemium).
 > 最全AI工具导航 | 人工智能工具合集 | AI Tools Directory | 精选 **80+** 优质AI工具，涵盖8大核心领域，持续更新 🔥
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
