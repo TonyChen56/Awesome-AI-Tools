@@ -97,6 +97,7 @@
 - **[Beautiful.ai](https://beautiful.ai)** 🔥 `Paid` `PPT Design` - Smart PPT design tool
 - **[Tome](https://tome.app)** `Freemium` `Storytelling` - AI storytelling and presentation tool
 - **[Otter.ai](https://otter.ai)** `Freemium` `Meeting Transcription` - AI meeting transcription and notes
+- **[JobEmerge](https://www.jobemerge.work/)** `Free + One-time Purchase` `Career` `Resume` - Job-fit checks, resume editing and translation, cover letters, text-based mock interviews, and application tracking
 - **[Calendly](https://calendly.com)** `Freemium` `Scheduling` - Smart scheduling assistant
 - **[Zapier](https://zapier.com)** `Freemium` `Workflow Automation` - AI workflow automation platform
 - **[Monday.com](https://monday.com)** `Paid` `Project Management` - AI project management tool
@@ -172,4 +173,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ⭐ If this list is helpful to you, please give it a Star for support!
 
-💬 Have questions or suggestions? Feel free to submit an Issue or contact us! 
+💬 Have questions or suggestions? Feel free to submit an Issue or contact us!

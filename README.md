@@ -104,6 +104,7 @@
 - **[Beautiful.ai](https://beautiful.ai)** - 智能PPT设计工具
 - **[Tome](https://tome.app)** - AI故事叙述和演示工具
 - **[Otter.ai](https://otter.ai)** - AI会议转录和笔记
+- **[JobEmerge](https://www.jobemerge.work/)** - AI求职工具，提供职位匹配度检测、简历编辑与19种语言翻译、求职信、文字模拟面试和申请跟踪
 - **[Calendly](https://calendly.com)** - 智能日程安排助手
 - **[Zapier](https://zapier.com)** - AI工作流自动化平台
 - **[Monday.com](https://monday.com)** - AI项目管理工具
