@@ -113,6 +113,7 @@
 
 ## 🔍 AI 搜索分析
 
+- **[DisconfirmAI / 证伪AI](https://disconfirmai.com/zh)** `免费` `投资研究` `证伪` - 面向投资研究的阅读与研究平台，在建立确信前先找可能推翻观点的反面证据
 - **[Perplexity](https://perplexity.ai)** - AI搜索和研究助手
 - **[Phind](https://phind.com)** - 面向开发者的AI搜索引擎
 - **[You.com](https://you.com)** - 个性化AI搜索平台
