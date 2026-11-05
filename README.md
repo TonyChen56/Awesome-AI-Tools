@@ -85,6 +85,8 @@
 - **[Pictory](https://pictory.ai)** - 文本转视频AI工具
 - **[Fliki](https://fliki.ai)** - AI文本转视频和语音合成
 - **[Descript](https://descript.com)** - AI视频编辑和转录工具
+- **[Cyanvid](https://cyanvid.com/?utm_source=github-tonychen56-Awesome-AI-Tools&utm_medium=directory&utm_campaign=backlinks)** `免费试用` - AI video generator from text/images with clear credit quotes
+- **[Barz Studio](https://barzvideo.com/?utm_source=github-tonychen56-Awesome-AI-Tools&utm_medium=directory&utm_campaign=backlinks)** `免费` - Free browser rap lyric video maker (bring your track; WebM export)
 
 ## 🎵 AI 音频生成
 
