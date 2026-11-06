@@ -52,6 +52,7 @@
 - **[Leonardo AI](https://leonardo.ai)** 🔥🔥 `付费` `专业级` `艺术创作` - 专业级AI艺术生成平台
 - **[Firefly](https://firefly.adobe.com)** 🔥 `付费` `Adobe` `创意套件` - Adobe的AI创意工具套件
 - **[Canva AI](https://canva.com/ai-image-generator)** - 集成AI功能的设计平台
+- **[EasySociable](https://easysociable.com/?utm_source=tonychen56-awesome-ai-tools&utm_medium=directory&utm_campaign=backlinks)** - 在编码 Agent（Claude Code / Cursor / Codex）内把提示词变成品牌化多页社交轮播图，支持 TikTok、Instagram、LinkedIn；含免费计划
 - **[Artbreeder](https://artbreeder.com)** - 基于遗传算法的图像创作工具
 - **[NightCafe](https://nightcafe.studio)** - 多样化AI艺术生成器
 - **[Playground AI](https://playgroundai.com)** - 免费的AI图像生成平台
