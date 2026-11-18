@@ -146,6 +146,7 @@
 - **[OpenAI Codex](https://openai.com/codex)** - OpenAI的代码生成模型
 - **[Sourcegraph Cody](https://sourcegraph.com/cody)** - AI代码搜索和生成
 - **[DeepCode](https://deepcode.ai)** - AI代码审查工具
+- **[MoeRouter](https://moerouter.com/)** - 统一调用 Claude、GPT、Gemini 等模型的 API 网关，按使用量以人民币计费
 
 ---
 
