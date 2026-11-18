@@ -139,6 +139,7 @@
 - **[OpenAI Codex](https://openai.com/codex)** `API` `Code Generation` - OpenAI's code generation model
 - **[Sourcegraph Cody](https://sourcegraph.com/cody)** `Freemium` `Code Search` - AI code search and generation
 - **[DeepCode](https://deepcode.ai)** `Free` `Code Review` - AI code review tool
+- **[MoeRouter](https://moerouter.com/)** - A usage-based API gateway for Claude, GPT and Gemini with cost-aware routing and CNY billing
 
 ---
 
